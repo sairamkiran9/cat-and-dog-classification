@@ -1,4 +1,4 @@
-# cat-and-dog-classification
+# Cat and Dog Classification
 
 This is an image classification project where the CNN model classifies the images of cats and dogs. The model achieved an accuracy of 95.57%. 
 
